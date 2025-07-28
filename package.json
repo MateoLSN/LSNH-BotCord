@@ -1,0 +1,15 @@
+{
+  "name": "lsnh-botcord",
+  "version": "1.0.0",
+  "description": "Discord bot for reminders and commands",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^17.2.1",
+    "node-schedule": "^2.1.1"
+  }
+}
